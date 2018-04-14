@@ -1,5 +1,5 @@
 <h2 style="color:red;">Student Registration Automation</h2>
-<a href="https://hizliresim.com/2JpRYA"><img src="https://i.hizliresim.com/2JpRYA.png"></a>
+
 <pre>
     <div class="container">
         <div class="block two first">
