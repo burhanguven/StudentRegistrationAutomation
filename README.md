@@ -1,1 +1,1 @@
-<h1> StudentRegistrationAutomation </h1>
+<h1 style=color:'red'> StudentRegistrationAutomation </h1>
