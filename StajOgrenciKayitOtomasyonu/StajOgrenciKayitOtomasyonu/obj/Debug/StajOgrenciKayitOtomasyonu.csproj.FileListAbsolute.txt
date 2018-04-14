@@ -1,0 +1,98 @@
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\StajOgrenciKayitOtomasyonu.exe.config
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\StajOgrenciKayitOtomasyonu.exe
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\StajOgrenciKayitOtomasyonu.pdb
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form1.resources
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form2.resources
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Properties.Resources.resources
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.exe
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.pdb
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form3.resources
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form4.resources
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.exe.licenses
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\StajOgrenciKayitOtomasyonu.exe.config
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.exe
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.pdb
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form1.resources
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form2.resources
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form3.resources
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Form4.resources
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.Properties.Resources.resources
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\obj\Debug\StajOgrenciKayitOtomasyonu.exe.licenses
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\StajOgrenciKayitOtomasyonu.exe
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\StajOgrenciKayitOtomasyonu.pdb
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Burhan\Desktop\4. Sınıf 2. Dönem\Görsel Proje\StajOgrenciKayitOtomasyonu\StajOgrenciKayitOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
