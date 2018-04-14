@@ -5,7 +5,7 @@
         <div class="block two first">
             <h2 style="color:blue;">Your title</h2>
             <div class="wrap">
-                <a href="https://hizliresim.com/0E3a2B"><img src="https://i.hizliresim.com/0E3a2B.png"></a>
+                <a href="https://resmim.net/preview/8YWYAi.png"><img src="https://resmim.net/f/8YWYAi.png"></a>
             </div>
         </div>
     </div>
