@@ -1,11 +1,10 @@
 <h2 style="color:red;">Student Registration Automation</h2>
-![login](https://user-images.githubusercontent.com/29856507/38778825-d7c17e0a-40c7-11e8-8efa-b2ec18360111.png)
 <pre>
     <div class="container">
         <div class="block two first">
             <h2 style="color:blue;">Your title</h2>
             <div class="wrap">
-           ![login](https://user-images.githubusercontent.com/29856507/38778825-d7c17e0a-40c7-11e8-8efa-b2ec18360111.png)
+                <img alt="Screen" title="Screen" src="![login](https://user-images.githubusercontent.com/29856507/38778825-d7c17e0a-40c7-11e8-8efa-b2ec18360111.png)" width="1336">
 
             </div>
         </div>
