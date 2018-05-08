@@ -30,20 +30,17 @@ namespace StajOgrenciKayitOtomasyonu
 
             if (oku.Read())
             {
-                if (oku["kullaniciAdi"].ToString() == textBox1.Text && oku["sifre"].ToString() == textBox2.Text)
-                {
                     Form2 frm2 = new Form2();
                     frm2.Show();
-                   
-                }
-                else
-                {
-                    MessageBox.Show("Kullanıcı Adı veya Şifre Yanlış!!");
-                }
-                this.Hide();
-                baglan.Close();
-
             }
+            else
+            {
+                MessageBox.Show("Kullanıcı Adı veya Şifre Yanlış!!");
+            }
+             this.Hide();
+             baglan.Close();
+
+            
         }
     }
 }

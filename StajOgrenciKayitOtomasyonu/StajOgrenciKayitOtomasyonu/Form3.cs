@@ -24,7 +24,7 @@ namespace StajOgrenciKayitOtomasyonu
         {
             baglan.Open();
 
-            SqlCommand komut = new SqlCommand("select * from ogrenciBilgi",baglan);
+            SqlCommand komut = new SqlCommand("select * from ogrenciBilgii",baglan);
             SqlDataReader oku = komut.ExecuteReader();
 
             while(oku.Read())
@@ -73,15 +73,8 @@ namespace StajOgrenciKayitOtomasyonu
         {
             baglan.Open();
 
-            SqlCommand komut = new SqlCommand("insert into ogrenciBilgi(tcNo,adSoyad,okul,bolum,sinif,baslangicT,bitisT,fotograf) values (@p1,@p2,@p3,@p4,@p5,@p6,@p7,@p8)",baglan);
-                komut.Parameters.AddWithValue("@p1", textBox1.Text);
-                komut.Parameters.AddWithValue("@p2", textBox2.Text);
-                komut.Parameters.AddWithValue("@p3", textBox3.Text);
-                komut.Parameters.AddWithValue("@p4", textBox4.Text);
-                komut.Parameters.AddWithValue("@p5", comboBox1.Text);
-                komut.Parameters.AddWithValue("@p6", textBox6.Text);
-                komut.Parameters.AddWithValue("@p7", textBox7.Text);
-                komut.Parameters.AddWithValue("@p8", textBox5.Text);
+            SqlCommand komut = new SqlCommand("insert into ogrenciBilgii(tcNo,adSoyad,okul,bolum,sinif,baslangicT,bitisT,fotograf) values ('"+textBox1.Text.ToString()+ "','" + textBox2.Text.ToString() + "','" + textBox3.Text.ToString() + "','" + textBox4.Text.ToString() + "','" + comboBox1.ToString() + "','" + textBox6.Text.ToString() + "','" + textBox7.Text.ToString() + "','" + textBox5.Text.ToString() + "')", baglan);
+                
             komut.ExecuteNonQuery();
             baglan.Close();
 
@@ -97,7 +90,7 @@ namespace StajOgrenciKayitOtomasyonu
 
             String secili = listView1.SelectedItems[0].SubItems[0].Text;
 
-            SqlCommand komut = new SqlCommand("update ogrenciBilgi set tcNo='"+textBox1.Text.ToString()+"', adSoyad='"+textBox2.Text.ToString()+"', okul='"+textBox3.Text.ToString()+"', bolum='"+textBox4.Text.ToString()+"', sinif='"+comboBox1.Text.ToString()+"', baslangicT='"+textBox6.Text.ToString()+"', bitisT='"+textBox7.Text.ToString()+"', fotograf='"+textBox5.Text.ToString()+"' where tcNo='"+secili+"' ", baglan);
+            SqlCommand komut = new SqlCommand("update ogrenciBilgii set tcNo='"+textBox1.Text.ToString()+"', adSoyad='"+textBox2.Text.ToString()+"', okul='"+textBox3.Text.ToString()+"', bolum='"+textBox4.Text.ToString()+"', sinif='"+comboBox1.Text.ToString()+"', baslangicT='"+textBox6.Text.ToString()+"', bitisT='"+textBox7.Text.ToString()+"' where tcNo='"+secili+"' ", baglan);
             komut.ExecuteNonQuery();
 
             baglan.Close();
@@ -114,10 +107,6 @@ namespace StajOgrenciKayitOtomasyonu
             listele();
         }
 
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-           
-        }
 
         private void button4_Click(object sender, EventArgs e)
         {
@@ -126,7 +115,7 @@ namespace StajOgrenciKayitOtomasyonu
 
             String secili = listView1.SelectedItems[0].SubItems[0].Text;
 
-            SqlCommand delete = new SqlCommand("delete from ogrenciBilgi where tcNo='"+secili+"'", baglan);
+            SqlCommand delete = new SqlCommand("delete from ogrenciBilgii where tcNo='"+secili+"'", baglan);
             delete.ExecuteNonQuery();
 
             baglan.Close();
@@ -150,7 +139,6 @@ namespace StajOgrenciKayitOtomasyonu
             textBox5.Text = listView1.SelectedItems[0].SubItems[7].Text;
 
             String adres = textBox5.Text;
-            pictureBox1.Image = Image.FromFile("C:\\Users\\Burhan\\Desktop\\a.png");
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -162,7 +150,7 @@ namespace StajOgrenciKayitOtomasyonu
         {
             baglan.Open();
 
-            SqlCommand arama = new SqlCommand("select *from ogrenciBilgi where adSoyad='" + textBox8.Text.ToString() + "' ", baglan);
+            SqlCommand arama = new SqlCommand("select *from ogrenciBilgii where adSoyad='" + textBox8.Text.ToString() + "' ", baglan);
             SqlDataReader oku = arama.ExecuteReader();
 
             while(oku.Read())
